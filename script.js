@@ -23,7 +23,7 @@ const numberOfBooksRead = () => {
 		if(curr[readingStatus]) cnt++;
 	}
 	return cnt;
-};
+};  
 
 // Do not change the code below
 
